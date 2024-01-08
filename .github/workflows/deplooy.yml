@@ -16,9 +16,9 @@ jobs:
       # generate artifacts
       - name: instal and build
         run: |
-             pnpm docs:build
              npm i pnpm -g
-             pnpm install --frozen-lockfile
+             pnpm install
+             pnpm docs:build
 
       - name: github-ci
         uses: crazy-max/ghaction-github-pages@v4
