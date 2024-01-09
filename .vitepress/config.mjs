@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Learning Linux",
   description: "About Linux BaseKnowlege",
+  base:"/learning-linux/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
