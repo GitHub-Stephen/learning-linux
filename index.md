@@ -9,6 +9,6 @@ hero:
   actions:
     - theme: brand
       text: Have fun
-      link: /fileSystem
+      link: /FileSystem
 
 
