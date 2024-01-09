@@ -5,10 +5,10 @@ layout: home
 hero:
   name: "Learning Linux"
   text: "About Linux BaseKnowlege"
-  tagline: My great project tagline
+  tagline: 不积跬步无以至千里
   actions:
     - theme: brand
-      text: 进入奇妙世界
-      link: /文件系统
+      text: Have fun
+      link: /fileSystem
 
 

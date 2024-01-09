@@ -15,7 +15,7 @@ export default defineConfig({
       {
         text: '目录与权限',
         items: [
-          { text: '文件系统', link: '文件系统' }
+          { text: '文件系统', link: 'FileSystem' }
         ]
       }
     ],
